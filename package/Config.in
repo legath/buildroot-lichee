@@ -2876,6 +2876,9 @@ menu "Sipeed"
 	source "package/gb-test-roms/Config.in"
 endmenu
 
+menu "Fly software"
+	source "package/mavproxy/Config.in"
 
+endmenu
 
 endmenu
